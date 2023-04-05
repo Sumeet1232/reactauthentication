@@ -1,0 +1,13 @@
+{
+  "user": [
+    {
+      "id": "Sumeet",
+      "name": "Sumeet Bhikule",
+      "password": "Sumeet",
+      "email": "sumeetbhikule2@gmail.com",
+      "phone": "8390705100",
+      "country": "India",
+      "gender": "on"
+    }
+  ]
+}
