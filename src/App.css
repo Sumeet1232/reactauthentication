@@ -28,6 +28,26 @@
   color: #61dafb;
 }
 
+.errmsg{
+  color: red;
+}
+
+.header{
+  background-color: blue;
+  color:white;
+  padding: 2%;
+}
+
+a{
+  text-decoration: none !important;
+  color: blue !important;
+  padding: 2px;
+}
+app-check{
+height: 20px;
+width: 20px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
